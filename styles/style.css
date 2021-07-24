@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+p{
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 60px;
+}
+h3{
+    font-size: 50px;
+}
+h5{
+    font-size: 24px;
+}
+.btn1{
+    background: #FF7143;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.btng{
+    background-color: #F7F7FB;
+    color: black;
+    ;
+}
+.card13{
+    background: #F8F8F8;
+    border-radius: 10px;
+}
+.card13 button{
+    background: white;
+    font-size: 17px;
+}
+.card2{
+    background: #FF7143;
+    box-shadow: 0px 32px 34px rgba(255, 112, 59, 0.317827);
+    border-radius: 10px;
+}
+.card2 button{
+    font-size: 17px;
+    background: #9F3919;
+}
+span{
+    font-size: 28px;
+}
